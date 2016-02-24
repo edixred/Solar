@@ -1,0 +1,406 @@
+
+@Book{ yuzheng2011,
+	title = "{Computing with Spatial Trajectories}",
+	author = "Y. Zheng and X. Zhou",
+	year = "2011",
+	publisher = "Springer Science and Business Media, LLC",
+	isbn= "978-1-4614-1628-9"
+}
+
+@article{riquelme2006mineria,
+  title={Mineria de datos: Conceptos y tendencias},
+  author={Riquelme, Jos{\'e} C and Ruiz, Roberto and Gilbert, Karina},
+  journal={Revista Iberoamericana de Inteligencia Artificial},
+  volume={10},
+  number={29},
+  pages={11--18},
+  year={2006}
+}
+
+@inproceedings{agrawal1994fast,
+  title={Fast algorithms for mining association rules},
+  author={Agrawal, Rakesh and Srikant, Ramakrishnan and others},
+  booktitle={Proc. 20th int. conf. very large data bases, VLDB},
+  volume={1215},
+  pages={487--499},
+  year={1994}
+}
+
+@article{creighton2003mining,
+  title={Mining gene expression databases for association rules},
+  author={Creighton, Chad and Hanash, Samir},
+  journal={Bioinformatics},
+  volume={19},
+  number={1},
+  pages={79--86},
+  year={2003},
+  publisher={Oxford Univ Press}
+}
+
+@book{han2006data,
+  title={Data Mining, Southeast Asia Edition: Concepts and Techniques},
+  author={Han, Jiawei and Kamber, Micheline},
+  year={2006},
+  publisher={Morgan kaufmann}
+}
+
+@article{han2007frequent,
+  title={Frequent pattern mining: current status and future directions},
+  author={Han, Jiawei and Cheng, Hong and Xin, Dong and Yan, Xifeng},
+  journal={Data Mining and Knowledge Discovery},
+  volume={15},
+  number={1},
+  pages={55--86},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{maneta2003aplicacion,
+  title={Aplicaci{\'o}n de redes neuronales artificiales para determinar la distribuci{\'o}n espacial de la humedad del suelo en una peque{\~n}a cuenca de drenaje: estudios preliminares},
+  author={Maneta, M and Schnabel, Susanne},
+  journal={Estudios de la Zona no Saturada del Suelo},
+  volume={6},
+  pages={295--304},
+  year={2003}
+}
+
+@article{miranda2003importancia,
+  title={Importancia del an{\'a}lisis estad{\'\i}stico exploratorio en el proceso de interpolaci{\'o}n espacial: caso de estudio Reserva Forestal Valdivia},
+  author={Miranda-Salas, Marcelo and Condal, Alfonso R},
+  journal={Bosque (Valdivia)},
+  volume={24},
+  number={2},
+  pages={29--42},
+  year={2003},
+  publisher={SciELO Chile}
+}
+
+@article{ciro2010modelo,
+  title={Modelo de interpolaci{\'o}n espacial mediante sistemas de informaci{\'o}n geogr{\'a}fica para el estudio de la variabilidad espacial de la resistencia a la penetraci{\'o}n del suelo},
+  author={CIRO, LIBARDO ANTONIO LONDO O and VAR, JOSRRAMR and VAR, GIRAMREZ and ANTE, CARLOS ANDR S ORD EZ},
+  journal={Dyna-Medellin},
+  volume={77},
+  number={164},
+  pages={109},
+  year={2010}
+}
+
+@article{nino2011interpolacion,
+  title={Interpolaci{\'o}n espacial de la abundancia larval de Aedes aegypti para localizar focos de infestaci{\'o}n},
+  author={Ni{\~n}o, Larry},
+  journal={Rev Panam Salud Publica},
+  volume={29},
+  number={6},
+  pages={416--22},
+  year={2011},
+  publisher={SciELO Public Health}
+}
+
+@misc{sigmur2013online,
+author = {Universidad de Murcia},
+title = {SIGMUR - SIG  y  Teledetección en la Universidad de Murcia},
+year = {2005},
+howpublished = "url{http://www.um.es/geograf/sigmur/}",
+urldate = {14-12-2015}
+}
+
+@misc{qgis2015online,
+author = {Tim Sutton, Otto Dassau, Marcelle Sutton, Lerato Nsibande, Sibongile Mthombeni},
+title = {Interpolación espacial en detalle},
+year = {2000},
+howpublished = "url{https://docs.qgis.org/}",
+urldate = {14-12-2015}
+}
+
+@article{pitarque1998redes,
+  title={Redes neurales vs modelos estad{\'\i}sticos: Simulaciones sobre tareas de predicci{\'o}n y clasificaci{\'o}n},
+  author={Pitarque, Alfonso and Ruiz, Juan Carlos and Roy, JF},
+  journal={Psicol{\'o}gica: Revista de metodolog{\'\i}a y psicolog{\'\i}a experimental},
+  volume={19},
+  number={3},
+  pages={387--398},
+  year={1998}
+}
+
+@article{pitarque2000redes,
+  title={Las redes neuronales como herramientas estad{\'\i}sticas no param{\'e}tricas de clasificaci{\'o}n},
+  author={Pitarque, Alfonso and Ruiz, Juan Carlos and Roy, Juan Francisco},
+  journal={Psicothema},
+  volume={12},
+  number={Suplemento},
+  pages={459--463},
+  year={2000}
+}
+
+@incollection{regresionmodel,
+  title={Modelos de regresión: lineal simple y regresión logística},
+  author={Irene Moral Peláez},
+  pages={195--214},
+  year={2006},
+  publisher={revistaseden}
+}
+
+@thesis{rn2001giaiq,
+  title={Redes Neuronales: Conceptos Básicos y Aplicaciones.},
+  author={Damián Jorge Matich},
+  year={2001},
+  school={Universidad Tecnológica Nacional }
+}
+
+@inproceedings{models2013,
+	title = {Análisis comparativo de métodos de interpolación espacial utilizando datos de evapotranspiración},
+	url = {http://www.dsr.inpe.br/sbsr2013/files/p1616.pdf},
+	urldate = {2016-01-15},
+	booktitle = {Anais XVI Simpósio Brasileiro de Sensoriamento Remoto - SBSR, Foz do Iguaçu, PR, Brasil, 13 a 18 de abril de 2013, INPE},
+	author = {Coaguila, Tangerino, Freitas and Gonçalves},
+	year = {2013},
+	file = {p1616.pdf:/home/edixred/.mozilla/firefox/oew7wawb.default/zotero/storage/9IS9VJFZ/p1616.pdf:application/pdf}
+}
+@article{hammer2003solarenergy,
+	title = {Solar energy assessment using remote sensing technologies},
+	volume = {86},
+	issn = {00344257},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S003442570300083X},
+	doi = {10.1016/S0034-4257(03)00083-X},
+	language = {en},
+	number = {3},
+	urldate = {2014-11-26},
+	journal = {Remote Sensing of Environment},
+	author = {Hammer, Annette and Heinemann, Detlev and Hoyer, Carsten and Kuhlemann, Rolf and Lorenz, Elke and M{\"u}ller, Richard and Beyer, Hans Georg},
+	month = aug,
+	year = {2003},
+	pages = {423--432},
+	file = {Solar_Energy_Assessment_Using_Remote_Sensing_Technologies.pdf:/home/and/.mozilla/firefox/oew7wawb.default/zotero/storage/VBT9DDKD/Solar_Energy_Assessment_Using_Remote_Sensing_Technologies.pdf:application/pdf}
+}
+
+@phdthesis{diagne2012solarirradiation,
+	title = {Solar irradiation forecasting: state-of-the-art and proposition for future developments for small-scale insular grids},
+	shorttitle = {Solar irradiation forecasting},
+	url = {https://ases.conference-services.net/resources/252/2859/pdf/SOLAR2012_0617_full%20paper.pdf},
+	urldate = {2014-11-26},
+	school = {American Solar Energy Society},
+	author = {Diagne, Hadja M. and David, Mathieu and Lauret, Philippe and Boland, John},
+	year = {2012},
+	file = {SOLAR2012_0617_full paper.pdf:/home/and/.mozilla/firefox/oew7wawb.default/zotero/storage/IETGMRWJ/SOLAR2012_0617_full paper.pdf:application/pdf}
+}
+
+@inproceedings{kaku2009creating,
+	title = {Creating High-Resolution Solar Information from Satellite Imagery and Numerical Weather Prediction Modelling},
+	url = {http://c0402442.cdn.cloudfiles.rackspacecloud.com/static/ttcms/1.0.0.26/us/documents/publications/ANZSES_Kaku_and_Potter.pdf},
+	urldate = {2014-11-26},
+	booktitle = {Proceedings of the 47th {ANZSES} Annual Conference, Townsville, Queensland Australia, 29th Sept{\textendash}2nd October 2009},
+	author = {Kaku, Katie and Potter, Cameron W.},
+	year = {2009},
+	file = {ANZSES_Kaku_and_Potter.pdf:/home/and/.mozilla/firefox/oew7wawb.default/zotero/storage/9IS9VJFZ/ANZSES_Kaku_and_Potter.pdf:application/pdf}
+}
+
+@article{wang2012shortterm,
+	title = {Short-Term Solar Irradiance Forecasting Model Based on Artificial Neural Network Using Statistical Feature Parameters},
+	volume = {5},
+	issn = {1996-1073},
+	url = {http://www.mdpi.com/1996-1073/5/5/1355/},
+	doi = {10.3390/en5051355},
+	language = {en},
+	number = {12},
+	urldate = {2014-11-26},
+	journal = {Energies},
+	author = {Wang, Fei and Mi, Zengqiang and Su, Shi and Zhao, Hongshan},
+	month = may,
+	year = {2012},
+	pages = {1355--1370},
+	file = {pdf.pdf:/home/and/.mozilla/firefox/oew7wawb.default/zotero/storage/QF6K6UXX/pdf.pdf:application/pdf}
+}
+
+@article{hashimoto2012prediction,
+	title = {Prediction of Output Power Variation of Solar Power Plant by Image Measurement of Cloud Movement},
+	volume = {2},
+	url = {http://85.122.26.3/jarp/index.php/jarp/article/viewArticle/86},
+	number = {2},
+	urldate = {2014-11-26},
+	journal = {Journal of Advanced Research in Physics},
+	author = {Hashimoto, Takeshi and Nagakura, Yohei},
+	year = {2012},
+	file = {47.pdf:/home/and/.mozilla/firefox/oew7wawb.default/zotero/storage/WUPW6ASQ/47.pdf:application/pdf}
+}
+
+@article{sai2014estimation,
+  title={Estimation of Net Radiation using satellite based data inputs},
+  author={Sai Krishna, SVS and Manavalan, P and Rao, PVN},
+  journal={ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={1},
+  pages={307--313},
+  year={2014}
+}
+
+@article{li2003high,
+  title={High-spatial-resolution surface and cloud-type classification from MODIS multispectral band measurements},
+  author={Li, Jun and Menzel, W Paul and Yang, Zhongdong and Frey, Richard A and Ackerman, Steven A},
+  journal={Journal of Applied Meteorology},
+  volume={42},
+  number={2},
+  pages={204--226},
+  year={2003}
+}
+
+@article{mas2011aplicaciones,
+  title={Aplicaciones del sensor MODIS para el monitoreo del territorio},
+  author={Mas, Jean-Francois},
+  journal={M{\'e}jico, ISBN},
+  pages={978--607},
+  year={2011}
+}
+
+@article{garcia2011evaluacion,
+  title={Evaluaci{\'o}n de im{\'a}genes del sensor MODIS para la cartograf{\'\i}a de la cobertura del suelo en una regi{\'o}n altamente diversa de M{\'e}xico},
+  author={Garc{\'\i}a-Mora, Tzitziki Janik and Mas, Jean-Fran{\c{c}}ois},
+  journal={Bolet{\'\i}n de la Sociedad Geol{\'o}gica Mexicana},
+  volume={63},
+  number={1},
+  pages={83--94},
+  year={2011},
+  publisher={Sociedad Geol{\'o}gica Mexicana}
+}
+
+@article{kim2008estimation,
+  title={Estimation of land surface radiation budget from MODIS data},
+  author={Kim, Hye-Yun},
+  year={2008}
+}
+
+@article{izaurieta2000redes,
+  title={Redes neuronales artificiales},
+  author={Izaurieta, Fernando and Saavedra, Carlos},
+  journal={Departamento de F{\'\i}sica, Universidad de Concepci{\'o}n Chile},
+  year={2000}
+}
+
+@misc{ASH:2013:Online,
+author = {Paulo Cortez},
+title = {Compute classification or regression error metrics.},
+year = {2005},
+howpublished = "url{http://www.inside-r.org/packages/cran/rminer/docs/mmetric}",
+urldate = {01-20-2016}
+}
+
+@misc{ErrorR:2012:Online,
+author = {Facultad de ciencias físicas y matemáticas de la Universidad de Chile},
+title = {Explorador del Recurso solar en chile.},
+year = {2012},
+howpublished = "url{http://walker.dgf.uchile.cl/Explorador/Solar2/info/Documentacion_Explorador_Solar.pdf}",
+urldate = {01-20-2016}
+}
+
+@article{alvarezprocesamiento,
+  title={PROCESAMIENTO DE IM{\'A}GENES PARA LA TELEDETECCI{\'O}N DE AEROSOLES EN EL NOROESTE DE M{\'E}XICO},
+  author={{\'A}LVAREZ, LI YARA GARC{\'I}A}
+}
+
+
+
+@inproceedings{uno2005lcm,
+ author = {Uno, Takeaki and Kiyomi, Masashi and Arimura, Hiroki},
+ title = {LCM Ver.3: Collaboration of Array, Bitmap and Prefix Tree for Frequent Itemset Mining},
+ booktitle = {Proceedings of the 1st International Workshop on Open Source Data Mining: Frequent Pattern Mining Implementations},
+ series = {OSDM '05},
+ year = {2005},
+ isbn = {1-59593-210-0},
+ location = {Chicago, Illinois},
+ pages = {77--86},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1133905.1133916},
+ doi = {10.1145/1133905.1133916},
+ acmid = {1133916},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+
+@incollection{kalnis2005discovering,
+year={2005},
+isbn={978-3-540-28127-6},
+booktitle={Advances in Spatial and Temporal Databases},
+volume={3633},
+series={Lecture Notes in Computer Science},
+editor={Bauzer Medeiros, Claudia and Egenhofer, MaxJ. and Bertino, Elisa},
+doi={10.1007/11535331_21},
+title={On Discovering Moving Clusters in Spatio-temporal Data},
+url={http://dx.doi.org/10.1007/11535331_21},
+publisher={Springer Berlin Heidelberg},
+author={Kalnis, Panos and Mamoulis, Nikos and Bakiras, Spiridon},
+pages={364-381},
+language={English}
+}
+
+@incollection{VieiraT13,
+  year={2013},
+  isbn={978-3-319-02407-3},
+  booktitle={Spatio-Temporal Databases},
+  series={SpringerBriefs in Computer Science},
+  doi={10.1007/978-3-319-02408-0_4},
+  title={Flock Pattern Queries},
+  url={http://dx.doi.org/10.1007/978-3-319-02408-0_4},
+  publisher={Springer International Publishing},
+  author={Vieira, MarcosR. and Tsotras, VassilisJ.},
+  pages={61-83},
+  language={English}
+}
+
+@Manual{QGISsoftware,
+    title = {QGIS Geographic Information System},
+    author = {{QGIS Development Team}},
+    organization = {Open Source Geospatial Foundation},
+    year = {2009},
+    url = {http://qgis.osgeo.org},
+  }
+  
+@book{miller2009geographic,
+  title={Geographic data mining and knowledge discovery},
+  author={Miller, Harvey J and Han, Jiawei},
+  year={2009},
+  publisher={CRC Press}
+}
+
+@book{zhang2002association,
+  title={Association rule mining: models and algorithms},
+  author={Zhang, Chengqi and Zhang, Shichao},
+  year={2002},
+  publisher={Springer-Verlag}
+}
+
+@book{giudici2005applied,
+  title={Applied data mining: statistical methods for business and industry},
+  author={Giudici, Paolo},
+  year={2005},
+  publisher={John Wiley \& Sons}
+}
+
+@misc{mod09gadetails,
+author = {LP DAAC User Services, U.S. Geological Survey (USGS),Center for Earth Resources Observation and Science (EROS)},
+title = {MOD09GA},
+year = {2000},
+howpublished = "url{https://lpdaac.usgs.gov}",
+urldate = {22-01-2016}
+}
+
+@misc{modisweb,
+author = {NASA Web Privacy Policy and Important Notices},
+title = {MODIS},
+year = {2000},
+howpublished = "url{http://modis.gsfc.nasa.gov/}",
+urldate = {22-01-2016}
+}
+
+@misc{pymodisworkwithMODIS,
+author = { Fondazione Edmund Mach },
+title = {pyModis-Open Source Python based library to work with MODIS data},
+year = {2010},
+howpublished = "url{http://pymodis.fem-environment.eu/}",
+urldate = {14-12-2015}
+}
+
+@misc{bandMODISspecification,
+author = { NASA Web Privacy Policy and Important Notices },
+title = {MODIS band Specifications},
+year = {2010},
+howpublished = "url{http://modis.gsfc.nasa.gov/about/specifications.php}",
+urldate = {14-12-2015}
+}

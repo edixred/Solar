@@ -1,0 +1,13 @@
+\chapter*{ACRÓNIMOS}
+ 
+\begin{description}
+ \item [CAD] Computer Aided Design
+ \item [DBMS] Database Management System
+ \item [GIS] Geographic Information System
+ \item [LCM] Linear time Closed itemset Miner
+ \item [MOD] Moving Objects Databases
+ \item [MOD09GA] The MODIS Surface Reflectance products
+ \item [MODIS] Moderate-Resolution Imaging Spectroradiometer
+ \item [MPS] Minería de Patrones Secuenciales
+ 
+\end{description}

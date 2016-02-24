@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tesis.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibliography.bib
+Warning--entry type for "rn2001giaiq" isn't style-file defined
+--line 285 of file bibliography.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in regresionmodel
+Too many commas in name 1 of "Tim Sutton, Otto Dassau, Marcelle Sutton, Lerato Nsibande, Sibongile Mthombeni" for entry qgis2015online
+while executing---line 2419 of file IEEEtran.bst
+Too many commas in name 1 of "Tim Sutton, Otto Dassau, Marcelle Sutton, Lerato Nsibande, Sibongile Mthombeni" for entry qgis2015online
+while executing---line 2419 of file IEEEtran.bst
+Warning--empty journal in kim2008estimation
+Warning--empty journal in alvarezprocesamiento
+Warning--empty year in alvarezprocesamiento
+
+Done.
+You've used 32 entries,
+            4039 wiz_defined-function locations,
+            992 strings with 13962 characters,
+and the built_in function-call counts, 21076 in all, are:
+= -- 1729
+> -- 465
+< -- 157
++ -- 248
+- -- 81
+* -- 1006
+:= -- 3309
+add.period$ -- 66
+call.type$ -- 32
+change.case$ -- 30
+chr.to.int$ -- 354
+cite$ -- 36
+duplicate$ -- 1542
+empty$ -- 1740
+format.name$ -- 105
+if$ -- 4785
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 278
+newline$ -- 133
+num.names$ -- 32
+pop$ -- 655
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1657
+stack$ -- 0
+substring$ -- 856
+swap$ -- 1202
+text.length$ -- 39
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 32
+warning$ -- 4
+while$ -- 96
+width$ -- 34
+write$ -- 333
+(There were 2 error messages)

@@ -1,0 +1,25 @@
+﻿CREATE TABLE cloud_move as(
+SELECT 
+	latitude,longitude,round(cast(avg(percent) as numeric),2) as generalpercent 
+from 
+	percent_clouds 
+group by 
+	latitude,longitude)
+
+---
+--CREATE TABLE cloud_move as(
+--SELECT 
+--	latitude,longitude,round(cast(avg(percent) as numeric),2) as generalpercent 
+--from 
+--	percent_clouds 
+--group by 
+--	latitude,longitude)
+--CONSULTAR PORCENTAJE DE NUBES MENSUAL
+SELECT 
+	round(cast(avg(percent) as numeric),2) as enero 
+from 
+	percent_clouds 
+where
+	latitude=-8795700 and longitude=183150
+group by 
+	latitude,longitude,month
